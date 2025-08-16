@@ -5,6 +5,6 @@ This project applies a Generative Adversarial Network (GAN) system in generating
 Summary:
 
 - Creating and training a GAN.
-- Using a pre-trained GAN to generate images and data.
+- Using GAN to generate images and data.
 - Training a model using synthetic data from a GAN.
 - Building a web app using Streamlit.
